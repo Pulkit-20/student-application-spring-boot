@@ -1,4 +1,4 @@
-package main.java.com.example.studentapplication;
+package com.example.studentapplication;
 
 import java.util.List;
 
